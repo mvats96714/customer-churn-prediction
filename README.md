@@ -1,4 +1,5 @@
 # Customer Churn Prediction System
+🔗 **GitHub Repository:** [View Project Here](https://github.com/mvats96714/customer-churn-prediction)
 
 An end-to-end Machine Learning project that predicts whether a telecom customer is likely to churn using structured business data.
 
