@@ -5,7 +5,7 @@ An end-to-end Machine Learning project that predicts whether a telecom customer 
 
 ---
 
-## 🚀 Features
+##  Features
 - Data cleaning and preprocessing
 - One-hot encoding for categorical variables
 - Model comparison: Logistic Regression vs XGBoost
@@ -14,7 +14,7 @@ An end-to-end Machine Learning project that predicts whether a telecom customer 
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Python  
 - Pandas, NumPy  
 - Scikit-learn  
@@ -23,7 +23,7 @@ An end-to-end Machine Learning project that predicts whether a telecom customer 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 churn_project/
 │
 ├── data/
@@ -37,7 +37,7 @@ churn_project/
 
 ---
 
-## ▶️ How to Run Locally
+##  How to Run Locally
 
 ```bash
 pip install pandas numpy scikit-learn xgboost streamlit joblib
